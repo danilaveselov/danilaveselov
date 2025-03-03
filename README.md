@@ -16,10 +16,3 @@ Highly motivated software developer with over 3 years of programming experience.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-
-### 🎓 Currently Learning
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<br /><br />
-
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilaveselov&show_icons=true&theme=radical&count_private=true&hide=stars,prs,issues,contribs)
